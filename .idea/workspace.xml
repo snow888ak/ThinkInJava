@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae254946-db26-4cbe-84f8-2c40eb166eac" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/cpt8/src/com/kezhong/thinkinjava/cpt8/polymorphism/music3/Music3.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cpt8/src/com/kezhong/thinkinjava/cpt8/practice/Practice6.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cpt8/src/com/kezhong/thinkinjava/cpt8/practice/Practice7.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cpt8/src/com/kezhong/thinkinjava/cpt8/practice/Practice8.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -398,12 +394,20 @@
       <option name="presentableId" value="Default" />
       <updated>1519137808878</updated>
       <workItem from="1519137810019" duration="2679000" />
-      <workItem from="1519201525725" duration="9930000" />
+      <workItem from="1519201525725" duration="9957000" />
     </task>
+    <task id="LOCAL-00001" summary="添加练习6，7，8">
+      <created>1519224651492</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1519224651492</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12609000" />
+    <option name="totallyTimeSpent" value="12636000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -494,6 +498,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加练习6，7，8" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加练习6，7，8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
